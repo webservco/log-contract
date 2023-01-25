@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace WebServCo\LogContract\Filesystem;
+namespace WebServCo\Log\Contract\Filesystem;
 
 /**
  * Filesystem helper interface.

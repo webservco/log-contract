@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace WebServCo\LogContract\Context;
+namespace WebServCo\Log\Contract\Context;
 
 interface ContextServiceInterface
 {
